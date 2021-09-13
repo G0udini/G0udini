@@ -1,4 +1,4 @@
-### Hi, I'm Ruslan (G0udini) 👋
+### Hi, I'm G0udini (Ruslan) 👋
 
 - :grinning: I’m interested in science, technologies and fascinating projects
 - :wrench: I'm currently working on websites backend to learn 
@@ -8,10 +8,13 @@
 
 ### Languages and Tools:
 
+---
 
 [![G0udini's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0udini&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0udini)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0udini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
