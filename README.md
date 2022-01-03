@@ -4,7 +4,7 @@
 - :wrench: I'm currently working on websites backend to learn 
 - :mortar_board: I’m currently learning python, sql, django and much more...
 - :open_file_folder: I'm looking to contribute to open source projects
-- :bulb: 2021 Goals: Learn more about backend technologies and tools
+- :bulb: 2022 Goals: Learn more about backend technologies and tools
 
 ---
 
