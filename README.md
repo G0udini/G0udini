@@ -1,10 +1,8 @@
-## Hi, I'm Ruslan (G0udini) 👋
+## Hi, I'm Ruslan 👋
 
-- :grinning: I’m interested in science, technologies and fascinating projects
-- :wrench: I'm currently working on websites backend to learn 
-- :mortar_board: I’m currently learning python, sql, django and much more...
-- :open_file_folder: I'm looking to contribute to open source projects
-- :bulb: 2022 Goals: Learn more about backend technologies and tools
+- :grinning: I’m interested in computer science, technologies and business
+- :wrench: I'm currently working on my own pet projects that you can see below 
+- :bulb: I'm currently looking for job as Junior/Junior+ Python Backend Developer
 
 ---
 
