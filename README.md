@@ -1,8 +1,7 @@
 ## Hi, I'm Ruslan 👋
 
 - :grinning: I’m interested in computer science, technologies and business
-- :wrench: I'm currently working on my own pet projects that you can see below 
-- :bulb: I'm currently looking for job as Junior/Junior+ Python Backend Developer
+- :bulb: I'm currently working as Junior/Junior+ Python Backend Developer
 
 ---
 
